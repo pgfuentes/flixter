@@ -34,8 +34,12 @@
   </div>
 </nav>
 
-
-
+<% if notice.present? %>
+<p class="alert alert-info"><%= notice %></p>
+<% end %>
+<% if alert.present? %>
+<p class="alert alter-danger"><%= alert %></p>
+<% end %>
 
 
 
