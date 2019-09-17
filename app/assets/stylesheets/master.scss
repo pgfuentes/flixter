@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
-
-
 .body {
   background: image_url'bg.png';
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
@@ -17,9 +15,13 @@
   padding: 10px;
 }
 
-
-
-
+.help-block {
+  color: #ff3333;
+  background-color: #FFEEEE;
+  border-radius: 3px;
+  padding: 2px 8px;
+  margin: 10px;
+}
 
 .navbar {
   font-family: "Open Sans", Open Sans;
@@ -33,8 +35,6 @@
   font-weight: 100;
   color: white;
 }
-
-
 
 .hero {
   background: image_url('hero.jpg') no-repeat center center fixed;
