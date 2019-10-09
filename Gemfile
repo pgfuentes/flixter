@@ -26,13 +26,19 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap',  '~>4.0.0.alpha3'
 
+gem 'jquery-rails'
+
 gem 'simple_form'
+
+gem 'jquery-ui-rails'
 
 gem 'devise'
 
 gem 'carrierwave', '~> 2.0'
 
 gem 'carrierwave-aws'
+
+gem 'rake', '>= 13.0.0'
 
 gem 'stripe'
 

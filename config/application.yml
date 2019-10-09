@@ -1,6 +1,6 @@
 # config/application.yml
 
-AWS_ACCESS_KEY: "Your-access-key"
+#AWS_ACCESS_KEY: "Your-access-key"
 AWS_SECRET_KEY: "sk_test_Dx5uuKdFLN5xha2k6jUeeeGE00yms3YSGi"
 AWS_PUBLISHABLE_KEY: "pk_test_r4qyevWxh7Tfl4MuLVZvHIsY00YG3NA175"
 AWS_BUCKET:     "Your-bucket"
